@@ -41,3 +41,5 @@ class State
 		return @@ab_alpha.sort
 	end
 end
+
+require './state.rb'
